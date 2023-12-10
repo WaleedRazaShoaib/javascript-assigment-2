@@ -212,3 +212,11 @@
 
 
 //  QUESTION NO 07 (NOT DONE); 
+
+var bol = true ;
+if (bol){
+    console.log("hello")
+}
+else{
+    alert("nikal")
+}
