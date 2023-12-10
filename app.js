@@ -220,3 +220,4 @@ if (bol){
 else{
     alert("nikal")
 }
+bol = false;
